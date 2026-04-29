@@ -33,12 +33,12 @@ When I'm not coding, you'll probably find me thinking about better UX, Persian l
 
 | Project | Preview | Description | Tech |
 |---------|---------|-------------|------|
-| **[toast-notifications](https://github.com/osameh15/toast-notifications)** | ![toast-notifications](https://raw.githubusercontent.com/osameh15/toast-notifications/main/docs/images/toast.png) | Beautiful zero-dependency toast notification module for Nuxt 3/4. Simple, clean, and no heavy UI libraries needed. | Nuxt.js (Vue) |
-| **[confirm-dialogs](https://github.com/osameh15/confirm-dialogs)** | ![confirm-dialogs](https://raw.githubusercontent.com/osameh15/confirm-dialogs/main/docs/images/error.png) | Lightweight confirm dialog with promise-based API for Nuxt 3/4. | Nuxt.js (Vue) |
-| **[input-dialog](https://github.com/osameh15/input-dialog)** | ![input-dialog](https://raw.githubusercontent.com/osameh15/input-dialog/main/docs/images/info.png) | Clean input prompt dialog for quick user interactions in Nuxt 3/4. | Nuxt.js (Vue) |
-| **[Mizekar](https://github.com/osameh15/Mizekar)** | ![Mizekar](https://github.com/osameh15/Mizekar/raw/main/docs/Screenshots/category.png) | Modern fullscreen Windows desktop app for folder structure management with full Persian language support. | C# .NET |
-| **[Dialysis](https://github.com/osameh15/Dialysis)** | ![Dialysis](https://github.com/osameh15/Dialysis/raw/master/Images/HomeActivity.jpg) | Android application to help dialysis patients with monitoring and daily reminders. | Java (Android) |
-| **[ArappMain](https://github.com/osameh15/ArappMain)** | ![ArappMain](https://github.com/osameh15/ArappMain/raw/main/Images/Category.jpg) | Android rating and review application. | Kotlin (Android) |
+| **[toast-notifications](https://github.com/osameh15/toast-notifications)** | <img src="https://raw.githubusercontent.com/osameh15/toast-notifications/main/docs/images/toast.png" width="280" height="180" alt="toast-notifications"> | Beautiful zero-dependency toast notification module for Nuxt 3/4. Simple, clean, and works right out of the box. | Nuxt.js (Vue) |
+| **[confirm-dialogs](https://github.com/osameh15/confirm-dialogs)** | <img src="https://raw.githubusercontent.com/osameh15/confirm-dialogs/main/docs/images/error.png" width="280" height="180" alt="confirm-dialogs"> | Lightweight confirm dialog with promise-based API for Nuxt 3/4. No heavy UI libraries needed. | Nuxt.js (Vue) |
+| **[input-dialog](https://github.com/osameh15/input-dialog)** | <img src="https://raw.githubusercontent.com/osameh15/input-dialog/main/docs/images/info.png" width="280" height="180" alt="input-dialog"> | Clean input prompt dialog for quick user interactions in Nuxt 3/4. | Nuxt.js (Vue) |
+| **[Mizekar](https://github.com/osameh15/Mizekar)** | <img src="https://github.com/osameh15/Mizekar/raw/main/docs/Screenshots/category.png" width="280" height="180" alt="Mizekar"> | Modern fullscreen Windows desktop app for managing folder structures with full Persian language support. | C# .NET |
+| **[Dialysis](https://github.com/osameh15/Dialysis)** | <img src="https://github.com/osameh15/Dialysis/raw/master/Images/HomeActivity.jpg" width="180" height="280" alt="Dialysis"> | Android application to help dialysis patients with monitoring and daily reminders. | Java (Android) |
+| **[ArappMain](https://github.com/osameh15/ArappMain)** | <img src="https://github.com/osameh15/ArappMain/raw/main/Images/Category.jpg" width="180" height="280" alt="ArappMain"> | Android rating and review application. | Kotlin (Android) |
 
 *More on the way (including C++ Qt desktops, Unity games, and Nuxt.js web apps)... Check my [repos](https://github.com/osameh15?tab=repositories) for the latest!*
 
