@@ -35,13 +35,13 @@ When I'm not coding, you'll probably find me thinking about better UX, Persian l
 
 *More on the way (including C++ Qt desktops, Unity games, and Nuxt.js web apps)... Check my [repos](https://github.com/osameh15?tab=repositories) for the latest!*
 
-### 📊 My Stats
+## 📊 My Stats
 
 ![Osameh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osameh15&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osameh15&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🌟 Fun Fact
+### 🌟 Fun Fact
 As a Kurd with engineering fire ♨️, I believe the best code is like a good kebab: layered, flavorful, and shared with friends. What's your tech guilty pleasure? 😄
 
 ### 🌱 Currently Exploring
@@ -49,7 +49,7 @@ As a Kurd with engineering fire ♨️, I believe the best code is like a good k
 - Improving my Unity & game development skills
 - System design and scalable backend practices
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -63,11 +63,11 @@ As a Kurd with engineering fire ♨️, I believe the best code is like a good k
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osameh_ir)
 
 </div>
----
+
+*Made with ❤️ in Tehran. Last updated: April 30, 2026*  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=osameh15&color=brightgreen" alt="Profile Views" />
 </div>
 
-*Made with ❤️ in Tehran. Last updated: April 30, 2026*  
 ![Footer](https://img.shields.io/badge/Built%20with-Markdown-blue?style=for-the-badge&logo=markdown)
