@@ -29,8 +29,6 @@ When I'm not coding, you'll probably find me thinking about better UX, Persian l
 
 ### 🔥 Featured Projects
 
-### 🔥 Featured Projects
-
 | Project | Preview | Description | Tech |
 |---------|---------|-------------|------|
 | **[toast-notifications](https://github.com/osameh15/toast-notifications)** | <img src="https://raw.githubusercontent.com/osameh15/toast-notifications/main/docs/images/toast.png" width="280" height="180" alt="toast-notifications"> | Beautiful zero-dependency toast notification module for Nuxt 3/4. Simple, clean, and works right out of the box. | Nuxt.js (Vue) |
