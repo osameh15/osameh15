@@ -11,21 +11,16 @@ When I'm not coding, you'll probably find me thinking about better UX, Persian l
 
 ### Languages & Frameworks
 
-| Category          | Technologies |
-|-------------------|-------------|
-| **Frontend**      | Nuxt.js (Vue 3), TypeScript |
-| **Backend**       | Laravel (PHP), C# .NET |
-| **Mobile**        | Java (Android), Kotlin |
-| **Desktop**       | C++ (Qt), C# .NET |
-| **Game Development** | Unity (C#) |
-| **Tools & Others**| Docker, MinIO, ELK Stack (Elasticsearch, Logstash, Kibana), Git |
-| **Platforms**     | Linux, Windows |
-
-### Databases
-| Relational | NoSQL/Document | Other |
-|------------|----------------|-------|
-| PostgreSQL | Elasticsearch | SQLite |
-| MySQL | | |
+| Category              | Technologies |
+|-----------------------|--------------|
+| **Frontend**          | ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend**           | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![C%23 .NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) |
+| **Mobile**            | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
+| **Desktop**           | ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![C%23 .NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) |
+| **Game Development**  | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
+| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
+| **Tools & DevOps**    | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-00A1E9?logo=minio&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticsearch&logoColor=white) |
+| **Platforms**         | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white) |
 
 ### 🔥 Featured Projects
 
@@ -54,18 +49,25 @@ As a Kurd with engineering fire ♨️, I believe the best code is like a good k
 - Improving my Unity & game development skills
 - System design and scalable backend practices
 
-### 📫 Get in Touch
-- 💼 **Portfolio**: [Coming soon](https://osamehirandoust.dev) 
-- 📧 **Email**: osirandoust@gmail.com
-- 🐦 **X (Twitter)**: [@osameh15](https://x.com/osameh15)
-- 🔗 **LinkedIn**: [Osameh Irandoust](https://www.linkedin.com/in/osameh-irandoust-493359173/)
-- 📱 **Telegram**: [@osameh_ir](https://t.me/osameh_ir)
+### 📫 Let's Connect
 
+<div align="center">
+
+### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://osamehirandoust.dev)
+
+### 🔗 Social Links
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OsamehIr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osameh-irandoust-493359173/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osirandoust@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osameh_ir)
+
+</div>
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=osameh15&color=brightgreen" alt="Profile Views" />
 </div>
 
-*Made with ❤️ in Tehran. Last updated: April 29, 2026*  
+*Made with ❤️ in Tehran. Last updated: April 30, 2026*  
 ![Footer](https://img.shields.io/badge/Built%20with-Markdown-blue?style=for-the-badge&logo=markdown)
