@@ -1,73 +1,123 @@
-# Hi, I'm Osameh Irandoust 👋
-
-**Full-Stack Developer & Software Engineer**  
-BSc Computer Engineering — University of Tehran ♨️ | Proud Kurd ❤️
-
-From Kurdistan, currently based in Tehran. I love building things that actually solve problems — whether it's a clean Nuxt component, a helpful Android app, a powerful desktop tool, or a game prototype in Unity. 
-
-When I'm not coding, you'll probably find me thinking about better UX, Persian language support in apps, or how to make complex things feel simple.🚀
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-| Category              | Technologies |
-|-----------------------|--------------|
-| **Frontend**          | ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Backend**           | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![C%23 .NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) |
-| **Mobile**            | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-| **Desktop**           | ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![C%23 .NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) |
-| **Game Development**  | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
-| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
-| **Tools & DevOps**    | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-00A1E9?logo=minio&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticsearch&logoColor=white) |
-| **Platforms**         | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white) |
-
-### 🔥 Featured Projects
-
-| Project | Preview | Description | Tech |
-|---------|---------|-------------|------|
-| **[toast-notifications](https://github.com/osameh15/toast-notifications)** | <img src="https://raw.githubusercontent.com/osameh15/toast-notifications/main/docs/images/toast.png" width="280" height="180" alt="toast-notifications"> | Beautiful zero-dependency toast notification module for Nuxt 3/4. Simple, clean, and works right out of the box. | Nuxt.js (Vue) |
-| **[confirm-dialogs](https://github.com/osameh15/confirm-dialogs)** | <img src="https://raw.githubusercontent.com/osameh15/confirm-dialogs/main/docs/images/error.png" width="280" height="180" alt="confirm-dialogs"> | Lightweight confirm dialog with promise-based API for Nuxt 3/4. No heavy UI libraries needed. | Nuxt.js (Vue) |
-| **[input-dialog](https://github.com/osameh15/input-dialog)** | <img src="https://raw.githubusercontent.com/osameh15/input-dialog/main/docs/images/text.png" width="280" height="180" alt="input-dialog"> | Clean input prompt dialog for quick user interactions in Nuxt 3/4. | Nuxt.js (Vue) |
-| **[Mizekar](https://github.com/osameh15/Mizekar)** | <img src="https://github.com/osameh15/Mizekar/raw/main/docs/Screenshots/category.png" width="280" height="180" alt="Mizekar"> | Modern fullscreen Windows desktop app for managing folder structures with full Persian language support. | C# .NET |
-| **[Dialysis](https://github.com/osameh15/Dialysis)** | <img src="https://github.com/osameh15/Dialysis/raw/master/Images/HomeActivity.jpg" width="180" height="280" alt="Dialysis"> | Android application to help dialysis patients with monitoring and daily reminders. | Java (Android) |
-| **[ArappMain](https://github.com/osameh15/ArappMain)** | <img src="https://github.com/osameh15/ArappMain/raw/main/Images/Category.jpg" width="180" height="280" alt="ArappMain"> | Android rating and review application. | Kotlin (Android) |
-
-*More on the way (including C++ Qt desktops, Unity games, and Nuxt.js web apps)... Check my [repos](https://github.com/osameh15?tab=repositories) for the latest!*
-
-## 📊 My Stats
-
-![Osameh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osameh15&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osameh15&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🌟 Fun Fact
-As a Kurd with engineering fire ♨️, I believe the best code is like a good kebab: layered, flavorful, and shared with friends. What's your tech guilty pleasure? 😄
-
-### 🌱 Currently Exploring
-- Better Nuxt architecture and reusable components
-- Improving my Unity & game development skills
-- System design and scalable backend practices
-
-## 📫 Let's Connect
-
 <div align="center">
 
-### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://osamehirandoust.dev)
+# Osameh Irandoust
 
-### 🔗 Social Links
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OsamehIr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osameh-irandoust-493359173/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osirandoust@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osameh_ir)
+**Software engineer — backends, full-stack products, and high-performance systems**
+
+BSc Computer Engineering, University of Tehran · Kurdish, based in Tehran
+
+[![Portfolio](https://img.shields.io/badge/osameh.dev-090C0A?style=flat-square&logo=firefoxbrowser&logoColor=F0F0F0)](https://osameh.dev)
+[![npm](https://img.shields.io/badge/npm-090C0A?style=flat-square&logo=npm&logoColor=CB3837)](https://www.npmjs.com/~osameh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090C0A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/osameh-irandoust-493359173/)
+[![X](https://img.shields.io/badge/@OsamehIr-090C0A?style=flat-square&logo=x&logoColor=F0F0F0)](https://x.com/OsamehIr)
+[![Telegram](https://img.shields.io/badge/Telegram-090C0A?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/osameh_ir)
+[![Email](https://img.shields.io/badge/Email-090C0A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:osirandoust@gmail.com)
 
 </div>
 
-*Made with ❤️ in Tehran. Last updated: April 30, 2026*  
+---
+
+I build things that solve real problems: a Nuxt module that works the moment you install it, a desktop app that handles Persian properly, a backend that stays fast when the traffic arrives. Most of my work sits somewhere between web, systems, and mobile — I like moving between them.
+
+A theme runs through most of it: **zero dependencies where possible**. My Nuxt modules ship without Vuetify, icon fonts, or a drag-and-drop library, because pulling in 200kB to show a confirm dialog is a bad trade.
+
+## Stack
+
+**Web**
+
+![Nuxt](https://img.shields.io/badge/Nuxt-090C0A?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+![Vue](https://img.shields.io/badge/Vue-090C0A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-090C0A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-090C0A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-090C0A?style=flat-square&logo=vite&logoColor=646CFF)
+![Laravel](https://img.shields.io/badge/Laravel-090C0A?style=flat-square&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-090C0A?style=flat-square&logo=php&logoColor=777BB4)
+
+**Systems & desktop**
+
+![C++](https://img.shields.io/badge/C++-090C0A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Qt](https://img.shields.io/badge/Qt-090C0A?style=flat-square&logo=qt&logoColor=41CD52)
+![C#](https://img.shields.io/badge/C%23-090C0A?style=flat-square&logo=csharp&logoColor=512BD4)
+![.NET / WPF](https://img.shields.io/badge/.NET%20%2F%20WPF-090C0A?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Unity](https://img.shields.io/badge/Unity-090C0A?style=flat-square&logo=unity&logoColor=F0F0F0)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-090C0A?style=flat-square&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-090C0A?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-090C0A?style=flat-square&logo=openjdk&logoColor=F0F0F0)
+
+**Data & infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090C0A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-090C0A?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-090C0A?style=flat-square&logo=sqlite&logoColor=003B57)
+![Elastic](https://img.shields.io/badge/Elastic%20%2F%20ELK-090C0A?style=flat-square&logo=elasticsearch&logoColor=005571)
+![Docker](https://img.shields.io/badge/Docker-090C0A?style=flat-square&logo=docker&logoColor=2496ED)
+![MinIO](https://img.shields.io/badge/MinIO-090C0A?style=flat-square&logo=minio&logoColor=C72E49)
+![Linux](https://img.shields.io/badge/Linux-090C0A?style=flat-square&logo=linux&logoColor=FCC624)
+
+## Work
+
+### Nuxt modules
+
+Four pieces I got tired of rewriting on every project. All zero-dependency, all Nuxt 3 and 4.
+
+| Module | What it does | |
+|---|---|---|
+| [**toast-notifications**](https://github.com/osameh15/toast-notifications) | Call `useToast()` and you're done. No Vuetify, no icon font. | [npm](https://www.npmjs.com/package/nuxt-toast-notification) |
+| [**confirm-dialogs**](https://github.com/osameh15/confirm-dialogs) | `await useConfirmDialog().confirmDelete(...)` — promise-based, no wiring. | [npm](https://www.npmjs.com/package/nuxt-confirm-dialog) |
+| [**input-dialog**](https://github.com/osameh15/input-dialog) | Prompt for a typed value and await it. | [npm](https://www.npmjs.com/package/nuxt-input-dialog) |
+| [**Form-Management**](https://github.com/osameh15/Form-Management) | Drag-and-drop form builder and renderer — built without a drag-and-drop library. | Nuxt |
+
+### Portfolio
+
+| Project | What it is | |
+|---|---|---|
+| [**osameh.dev**](https://github.com/osameh15/osameh.dev) | My site, built as an IDE-inspired workspace instead of a résumé page. Static React/Vite frontend, small PHP backend handling GitHub data, contact delivery, analytics, and dynamic social cards. | [Live](https://osameh.dev) |
+
+### Arapp — ratings and reviews platform
+
+One product across three repos: an Android client, a Laravel API, and the public site.
+
+| Repo | Layer | |
+|---|---|---|
+| [**ArappMain**](https://github.com/osameh15/ArappMain) | Android client for rating and reviewing services. | Kotlin |
+| [**ArappMainBack-End**](https://github.com/osameh15/ArappMainBack-End) | Laravel backend and admin. | Laravel |
+| [**ArappOfficialSite**](https://github.com/osameh15/ArappOfficialSite) | Public-facing site. | Laravel |
+
+### Windows desktop
+
+| App | What it does | |
+|---|---|---|
+| [**Mizekar**](https://github.com/osameh15/Mizekar) | Fullscreen app for managing folder structures, with proper Persian support throughout. | C# |
+| [**YariZan**](https://github.com/osameh15/YariZan) | Persian launcher for grade 1–6 educational mini-games, styled as an ornate leather book. Hardware-locked activation. | WPF |
+
+### Android
+
+| App | What it does | |
+|---|---|---|
+| [**Dialysis**](https://github.com/osameh15/Dialysis) | Helps dialysis patients track treatment and stay on top of daily reminders. | Java |
+
+## Currently
+
+- Nuxt architecture: composables and modules that stay readable at scale
+- System design and backend practices that hold up under load
+- Qt and Unity, mostly for fun
+
+## Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=osameh15&color=brightgreen" alt="Profile Views" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=osameh15&show_icons=true&hide_border=true&theme=transparent&hide_title=true&rank_icon=github" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osameh15&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8" alt="Most used languages" />
+
 </div>
 
-![Footer](https://img.shields.io/badge/Built%20with-Markdown-blue?style=for-the-badge&logo=markdown)
+---
+
+<div align="center">
+
+Open to interesting problems — [osameh.dev](https://osameh.dev) · [osirandoust@gmail.com](mailto:osirandoust@gmail.com)
+
+</div>
