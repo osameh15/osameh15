@@ -109,8 +109,8 @@ One product across three repos: an Android client, a Laravel API, and the public
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=osameh15&show_icons=true&hide_border=true&theme=transparent&hide_title=true&rank_icon=github" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osameh15&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8" alt="Most used languages" />
+<img height="160" src="https://raw.githubusercontent.com/osameh15/osameh15/main/metrics.svg" alt="GitHub metrics" />
+<img height="160" src="https://raw.githubusercontent.com/osameh15/osameh15/main/metrics.languages.svg" alt="Most used languages" />
 
 </div>
 
